@@ -1,25 +1,26 @@
 {
-	"name": "FlashCFG-Built Store Template",
-	"description": "This store page was created using the Flashcord Store Quick Config Python Script!",
+	"name": "Legacy CBM Disable Chat Slide",
+	"description": "Disables the Chat Slide on Legacy CBM (CBM without ThemeHooker)",
 	"version": "v2.0",
 	"license": "Unlicense",
 	"type": "flashcord-addon",
-	"source": "https://github.com/SiriusBYT/Flashcord",
+	"source": "https://github.com/Atacantul/legacy-cbm-disable-chat-slide",
 	"flashcord": {
         "general_information": {
-            "contributors": "Atacantul",
+            "contributors": "SiriusBYT",
             "discord_link": "https://discord.gg/z93kHwGuZt",
             "license_year": "2024",
             "sndl_theme": "Light",
-            "embed_color": "#FF69FF",
+            "embed_color": "#FF6969",
             "tags": [
                 "Flashcord Addon",
                 "Flashcord SID",
-                "Flashcord STB"
+                "Flashcord STB",
+		"Bugfix"
             ]
         },
 		"internal_structure": {
-            "internal_name": "module_template",
+            "internal_name": "legacy_cbm_disable_chat_slide",
             "image_store": "store-banner.png",
             "image_embed": "embed-banner.png",
             "backup_files": true

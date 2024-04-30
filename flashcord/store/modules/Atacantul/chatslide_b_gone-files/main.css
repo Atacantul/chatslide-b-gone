@@ -1,0 +1,4 @@
+:root { --Flashcord-Store_ChatSlideBGone: "v1.0.0"; }
+[class^="layers_"] > [class^="layer_"]:first-child {
+  container-name: void !important;
+}

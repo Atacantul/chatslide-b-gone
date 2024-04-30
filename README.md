@@ -1,3 +1,1 @@
-# Welcome to the Flashcord Store Template!
-## THIS IS A VERY WORK IN PROGRESS: THE DOCUMENTATION IS NOT DONE YET.
-Check out [The Flashcord Wiki](https://github.com/SiriusBYT/flashcord/wiki/The-Flashcord-Store-Template) to understand how to use this template.
+Legacy Custom Background Mode (Without ThemeHooker) has a bug which doesn't let you disable the Chat-Slide using the "--Flashcord-Module_Chat-Slide" variable. This module will permanently disable the Chat-Slide (&knuckles), no matter your configuration.

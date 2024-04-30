@@ -1,10 +1,10 @@
 {
-	"name": "Legacy CBM Disable Chat Slide",
+	"name": "ChatSlide B-Gone",
 	"description": "Disables the Chat Slide on Legacy CBM (CBM without ThemeHooker)",
-	"version": "v2.0",
+	"version": "v1.0",
 	"license": "Unlicense",
 	"type": "flashcord-addon",
-	"source": "https://github.com/Atacantul/legacy-cbm-disable-chat-slide",
+	"source": "https://github.com/Atacantul/chatslide-b-gone",
 	"flashcord": {
         "general_information": {
             "contributors": "SiriusBYT",
@@ -20,7 +20,7 @@
             ]
         },
 		"internal_structure": {
-            "internal_name": "legacy_cbm_disable_chat_slide",
+            "internal_name": "chatslide_b_gone",
             "image_store": "store-banner.png",
             "image_embed": "embed-banner.png",
             "backup_files": true

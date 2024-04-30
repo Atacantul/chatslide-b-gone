@@ -7,10 +7,10 @@
 	"source": "https://github.com/SiriusBYT/Flashcord",
 	"flashcord": {
         "general_information": {
-            "contributors": "None",
+            "contributors": "Atacantul",
             "discord_link": "https://discord.gg/z93kHwGuZt",
             "license_year": "2024",
-            "sndl_theme": "Dark",
+            "sndl_theme": "Light",
             "embed_color": "#FF69FF",
             "tags": [
                 "Flashcord Addon",
